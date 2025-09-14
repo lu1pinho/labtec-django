@@ -1,5 +1,0 @@
-env
-.idea
-.env
-/frontend/.env
-frontend/node_modules
